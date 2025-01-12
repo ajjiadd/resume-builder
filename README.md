@@ -5,7 +5,7 @@ A simple and intuitive online resume builder application that allows users to cr
 
 **Project View**
 ==========================
-![Project View](https://github.com/ajjiadd/ProfileBuilders/raw/main/images/image.png?raw=true)
+![Project View](https://github.com/ajjiadd/resume-builder/raw/main/images/image.png?raw=true)
 
 
 **Features:**
